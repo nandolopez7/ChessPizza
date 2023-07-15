@@ -9,7 +9,7 @@ export function NavbarInicial() {
       <Nav className="Navbar-Inicial">
         <Navbar.Brand href="#home">
           <img
-            src="./images/pizza.webp"
+            src="/pizza.webp"
             width="45"
             height="45"
             className="PizzaLogo inline-block"
